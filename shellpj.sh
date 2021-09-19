@@ -3,3 +3,5 @@ date
 cal
 echo "bye "
 echo "Hey this is my new git poll scm hook project"
+date
+echo " run again"
